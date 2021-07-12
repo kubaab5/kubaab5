@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kuba. Html5, ccs3, js, jQuery developer.
+- 👀 I’m interested in web programming.
+- 🌱 I’m currently learning cryptography.
+- 💞️ I’m looking to collaborate on big web projects.
+- 📫 How to reach me https://t.me/kubaab5 . 
